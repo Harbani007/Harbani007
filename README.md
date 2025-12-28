@@ -4,10 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=500&color=957B98&vCenter=true&width=435&lines=Hey!+it's+Harbani+Kaur;I'm+a+Tech+Enthusiast" alt="Typing SVG" /></a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,bootstrap,react,nodejs)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ml)](https://skillicons.dev)
 ---
 
 <!--# 
