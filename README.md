@@ -6,17 +6,17 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,py,bootstrap,react,nodejs)](https://skillicons.dev)
 
+<!--# 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=ml)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=machineleaning)](https://skillicons.dev)
 ---
 
-<!--# 
 Since, you're reading this--
 Hi stranger, let's not be one anymore!
 Contact me-- harbani573@gmail.com
 I love collaborating with like-minded people.
 
 ## My goal:
-If a stranger can read my code without a comment and know what’s going on, I’ve done my job. That’s the bar.-->
+If a stranger can read my code without a comment and know what’s going on, I’ve done my job.-->
 ---
 
