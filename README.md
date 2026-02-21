@@ -31,7 +31,6 @@
 
 ## ✨ About Me
 
-- 🎓 **CGPA:** 9.15  
 - 🧠 I like building projects that are **useful, clean, and easy to understand**
 - 🧩 Strengthening **DSA + problem solving**
 - 🤖 Learning **Machine Learning** (math + algorithms) and building **OpenCV-based projects**
@@ -136,7 +135,6 @@
 
 - 📫 **Email:** harbani.k1@gmail.com  
 - 💼 **LinkedIn:** harbanikaur1  
-- 👩‍💻 **GitHub:** harbani007  
 
 <div align="center">
   <br/>
