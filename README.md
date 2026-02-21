@@ -2,9 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harbani%20Kaur&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Learner%20%7C%20Full-Stack%20Web%20Dev%20%7C%20OpenCV%20Projects&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&pause=600&color=FF78C4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Harbani+Kaur+%F0%9F%8C%B8;2nd+Year+Computer+Engineering+%40+Thapar;Learning+Machine+Learning+%26+Building+Practical+Projects;OpenCV+%2B+Python+%2B+Web+Dev+%F0%9F%92%BB" alt="Typing SVG"/>
-  </a>
+
 
   <p>
     <!-- <b>2nd Year B.E. Computer Engineering</b> @ Thapar Institute of Engineering & Technology, Patiala 🇮🇳 <br/> -->
@@ -26,10 +24,7 @@
     <!-- <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-ff78c4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=harbani007&style=for-the-badge&color=ff78c4" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/harbani007?style=for-the-badge&color=ff78c4" alt="Followers" />
-  </p>
+
 </div>
 
 ---
@@ -49,7 +44,7 @@
 ## 🎯 Current Focus
 
 - ✅ ML foundations (Supervised / Unsupervised / Recommenders / RL)  
-- ✅ OpenCV mini-projects → **Face Detection** + **Spam Email Detection** (adding soon)  
+- ✅ OpenCV mini-projects → **Face Detection** + **Spam Email Detection**  
 - ✅ Building web projects with **React + Node**  
 - ✅ DSA practice in **C++**
 
