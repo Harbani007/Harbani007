@@ -6,7 +6,7 @@
 
   <p>
     <!-- <b>2nd Year B.E. Computer Engineering</b> @ Thapar Institute of Engineering & Technology, Patiala 🇮🇳 <br/> -->
-    <i>Currently: ML foundations + DSA + OpenCV projects</i>
+    <!-- <i>Currently: ML foundations + DSA + OpenCV projects</i> -->
   </p>
 
 
