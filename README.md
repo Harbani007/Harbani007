@@ -80,15 +80,3 @@
 
 ---
 
-## 🤝 Let’s Connect
-
-- 📫 **Email:** harbani.k1@gmail.com  
-- 💼 **LinkedIn:** harbanikaur1  
-
-<div align="center">
-  <br/>
-  "Dream is not that which you see while sleeping; it is something that does not let you sleep."
-  <br><i>- Dr. A.P.J. Abdul Kalam.</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff9ad5,50:d9bed1,100:957b98" alt="footer"/>
-</div>
