@@ -2,14 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harbani%20Kaur&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Learner%20%7C%20Full-Stack%20Web%20Dev%20%7C%20OpenCV%20Projects&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
 
-
-
-  <p>
-    <!-- <b>2nd Year B.E. Computer Engineering</b> @ Thapar Institute of Engineering & Technology, Patiala 🇮🇳 <br/> -->
-    <!-- <i>Currently: ML foundations + DSA + OpenCV projects</i> -->
-  </p>
-
-
   <p>
     <a href="https://github.com/harbani007">
       <img src="https://img.shields.io/badge/GitHub-harbani007-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
@@ -21,7 +13,7 @@
       <img src="https://img.shields.io/badge/Email-harbani.k1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <!-- portfolio later -->
-    <!-- <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-ff78c4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
+    <!-- <a href="link"><img src="https://img.shields.io/badge/Portfolio-ff78c4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
   </p>
 
 
