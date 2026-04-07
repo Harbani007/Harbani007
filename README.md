@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harbani%20Kaur&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Learner%20%7C%20Full-Stack%20Web%20Dev%20%7C%20OpenCV%20Projects&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harbani%20Kaur&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Systems%20%7C%20Applied%20ML%20Research&descAlignY=52&descSize=18&color=0:ff9ad5,50:d9bed1,100:957b98" alt="header"/>
 
   <p>
     <a href="https://github.com/harbani007">
@@ -12,63 +12,67 @@
     <a href="mailto:harbani.k1@gmail.com">
       <img src="https://img.shields.io/badge/Email-harbani.k1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <!-- portfolio later -->
-    <!-- <a href="link"><img src="https://img.shields.io/badge/Portfolio-ff78c4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> -->
   </p>
-
 
 </div>
 
 ---
 
-## ✨ About Me
+## About Me
 
-- 🧠 I like building projects that are **useful, clean, and easy to understand**
-- 🧩 Strengthening **DSA + problem solving**
-- 🤖 Learning **Machine Learning** (math + algorithms) and building **OpenCV-based projects**
-- 🤝 Open to collaborations in **ML / OpenCV / Web apps**
+I’m a Computer Engineering sophomore interested in **machine learning systems** and **applied ML research**. I enjoy building end-to-end ML projects and evaluating them through **cross-validation**, **metric-driven model selection**, and **error analysis**.
 
-> **Goal:** If a stranger can read my code (with minimal comments) and still understand what’s happening — I’ve done my job.
+My work so far spans:
+- **audio classification**
+- **natural language processing**
+- **tabular machine learning**
+- **deployment-oriented ML workflows**
 
----
-
-## 🎯 Current Focus
-
-- ✅ ML foundations (Supervised / Unsupervised / Recommenders / RL)  
-- ✅ OpenCV mini-projects → **Face Detection** + **Spam Email Detection**  
-- ✅ Building web projects with **React + Node**  
-- ✅ DSA practice in **C++**
+I’m especially interested in building ML systems that are **reproducible, interpretable, and practical to use**.
 
 ---
 
-## 🧠 Technical Skills
+## Current Focus
+
+- strengthening my foundation in **machine learning**, **deep learning**, and the mathematics behind them
+- building **end-to-end ML pipelines** with reproducible experimentation
+- improving at **model evaluation**, **feature engineering**, and **error analysis**
+- learning how to take ML projects from **training -> inference API -> usable interface**
+- exploring applied ML problems across **audio**, **language**, and **structured data**
+
+---
+
+## Technical Skills
 
 <div align="center">
 
 ### Languages
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
 
-### Web / Frameworks
-<img src="https://img.shields.io/badge/HTML5-ff78c4?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-ff78c4?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-ff78c4?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-ff78c4?style=for-the-badge&logo=node.js&logoColor=white" />
-
-### ML / CV
-<img src="https://img.shields.io/badge/OpenCV-957b98?style=for-the-badge&logo=opencv&logoColor=white" />
+### ML / DL Libraries
+<img src="https://img.shields.io/badge/PyTorch-957b98?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Torchaudio-957b98?style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-957b98?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-957b98?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/dlib%20(face%20recognition)-957b98?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-957b98?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-957b98?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-957b98?style=for-the-badge&logo=opencv&logoColor=white" />
 
-### Database / Tools
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" />
+### Developer Tools
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-111827?style=for-the-badge&logo=latex&logoColor=white" />
+
+### Mathematics for ML
+<img src="https://img.shields.io/badge/Linear%20Algebra-4b5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Probability%20%26%20Statistics-4b5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Calculus-4b5563?style=for-the-badge" />
 
 </div>
 
 ---
-
