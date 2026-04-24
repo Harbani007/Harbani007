@@ -20,11 +20,13 @@
 
 ## About Me
 
-I’m a Computer Engineering sophomore interested in **machine learning systems** and **applied ML research**. I enjoy building end-to-end ML projects and evaluating them through **cross-validation**, **metric-driven model selection**, and **error analysis**.
+I’m a CS undergrad interested in **machine learning systems** and **applied ML research**. I enjoy building end-to-end ML projects and evaluating them through **cross-validation**, **metric-driven model selection**, and **error analysis**.
 
 My work so far spans:
 - **audio classification**
 - **natural language processing**
+- **tabular machine learning**
+- **deployment-oriented ML workflows**
 
 
 I’m especially interested in building ML systems that are **reproducible, interpretable, and practical to use**.
