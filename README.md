@@ -25,8 +25,7 @@ I’m a Computer Engineering sophomore interested in **machine learning systems*
 My work so far spans:
 - **audio classification**
 - **natural language processing**
-- **tabular machine learning**
-- **deployment-oriented ML workflows**
+
 
 I’m especially interested in building ML systems that are **reproducible, interpretable, and practical to use**.
 
@@ -58,7 +57,7 @@ I’m especially interested in building ML systems that are **reproducible, inte
 <img src="https://img.shields.io/badge/NumPy-957b98?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-957b98?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-957b98?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-957b98?style=for-the-badge&logo=opencv&logoColor=white" />
+
 
 ### Developer Tools
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
